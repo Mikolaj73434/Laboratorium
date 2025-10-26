@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spis>
+ <osoba id="1">
+ <imie>Marek</imie>
+ <nazwisko>Nowak</nazwisko>
+ <plec>M</plec>
+ <wiek>54</wiek>
+ </osoba>
+ 
+ <osoba id="2">
+ <imie>Anna</imie>
+ <nazwisko>Kot</nazwisko>
+ <plec>K</plec>
+ <wiek>25</wiek>
+ </osoba>
+ 
+  <osoba id="3">
+ <imie>Piotr</imie>
+ <nazwisko>Jawny</nazwisko>
+ <plec>M</plec>
+ <wiek>18</wiek>
+ </osoba>
+ 
+  <osoba id="4">
+ <imie>Jakub</imie>
+ <nazwisko>Krosno</nazwisko>
+ <plec>M</plec>
+ <wiek>44</wiek>
+ </osoba>
+ 
+  <osoba id="5">
+ <imie>Monika</imie>
+ <nazwisko>Wyszak</nazwisko>
+ <plec>K</plec>
+ <wiek>35</wiek>
+ </osoba>
+</spis>
